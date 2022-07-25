@@ -1,1 +1,0 @@
-<?php require "../trang-chinh/danh-muc.php"; ?>
